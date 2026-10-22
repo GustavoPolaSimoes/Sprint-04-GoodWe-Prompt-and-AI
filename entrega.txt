@@ -1,0 +1,10 @@
+SPRINT 04 - PROMPT AND ARTIFICIAL INTELLIGENCE - GOODWE
+
+Turma: 1CCPY
+Integrantes:
+Gustavo Pola Simões - RM 570114
+Pedro Henrique Lemgruber - RM 572094
+Gabriel Carlos Barbosa - RM 574074
+Enzo Coppa Selingarde - RM 573393
+
+Repositório GitHub: https://github.com/GustavoPolaSimoes/Sprint-04-GoodWe-Prompt-and-AI

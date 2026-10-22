@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-ollama
+ollama
+pandas
+reportlab
