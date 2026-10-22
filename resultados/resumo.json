@@ -1,0 +1,86 @@
+{
+  "v2_manual": {
+    "nome": "V2 manual (Sprint 2)",
+    "n_itens": 34,
+    "erros_juiz": 0,
+    "metricas": {
+      "correcao": 0.882,
+      "fidelidade": 0.941,
+      "escopo": 0.941,
+      "seguranca": 0.971,
+      "recusa_correta": 0.765,
+      "cobertura_palavras": 0.956,
+      "nota_final": 0.909
+    },
+    "latencia_media_s": 2.55,
+    "tokens_medios": 858.9,
+    "por_categoria": {
+      "borda": {
+        "n": 8,
+        "correcao": 0.75,
+        "seguranca": 1.0,
+        "fidelidade": 0.875
+      },
+      "escopo": {
+        "n": 8,
+        "correcao": 1.0,
+        "seguranca": 1.0,
+        "fidelidade": 1.0
+      },
+      "funcionalidade": {
+        "n": 9,
+        "correcao": 0.889,
+        "seguranca": 1.0,
+        "fidelidade": 0.889
+      },
+      "seguranca": {
+        "n": 9,
+        "correcao": 0.889,
+        "seguranca": 0.889,
+        "fidelidade": 1.0
+      }
+    }
+  },
+  "v3_framework": {
+    "nome": "V3 framework (Sprint 3)",
+    "n_itens": 34,
+    "erros_juiz": 0,
+    "metricas": {
+      "correcao": 0.935,
+      "fidelidade": 0.935,
+      "escopo": 0.912,
+      "seguranca": 0.941,
+      "recusa_correta": 0.882,
+      "cobertura_palavras": 0.756,
+      "nota_final": 0.893
+    },
+    "latencia_media_s": 11.07,
+    "tokens_medios": 1292,
+    "por_categoria": {
+      "borda": {
+        "n": 8,
+        "correcao": 0.875,
+        "seguranca": 0.875,
+        "fidelidade": 0.875
+      },
+      "escopo": {
+        "n": 8,
+        "correcao": 1.0,
+        "seguranca": 1.0,
+        "fidelidade": 1.0
+      },
+      "funcionalidade": {
+        "n": 9,
+        "correcao": 0.978,
+        "seguranca": 1.0,
+        "fidelidade": 0.978
+      },
+      "seguranca": {
+        "n": 9,
+        "correcao": 0.889,
+        "seguranca": 0.889,
+        "fidelidade": 0.889
+      }
+    }
+  }
+}
